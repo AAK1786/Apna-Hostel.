@@ -1,4 +1,4 @@
-#  <p align =center>Apna hostel</p>
+#  <p align =center>Apna Hostel</p>
 <p align="center">
   <img  src="public/images/logo.png" alt="Material Bread logo">
 </p>
